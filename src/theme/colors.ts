@@ -5,7 +5,7 @@ export const baseColors = {
   primary: "#aa8929",
   primaryBright: "#aa8929",
   primaryDark: "#aa8929",
-  secondary: "#FF3E7B",
+  secondary: "#da583e",
   success: "#31D0AA",
   warning: "#FFB237",
 };
@@ -23,9 +23,9 @@ export const lightColors: Colors = {
   invertedContrast: "#FFFFFF",
   input: "#eeeaf4",
   tertiary: "#EFF4F5",
-  text: "#FF3E7B",
+  text: "#da583e",
   textDisabled: "#BDC2C4",
-  textSubtle: "#FF3E7B",
+  textSubtle: "#da583e",
   borderColor: "#E9EAEB",
   card: "#FFFFFF",
   gradients: {
